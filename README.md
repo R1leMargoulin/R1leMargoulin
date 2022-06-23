@@ -28,7 +28,7 @@ I’m a robotics research engineer apprentice. To see my projects, look at my re
 
 ## **🚀 Some Tools I mostly work with**
 
-![Untitled](Untitled%201.png)
+![Untitled|width=100px](Untitled%201.png)
 
 ![Untitled](Untitled%202.png)
 
