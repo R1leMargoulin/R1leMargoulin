@@ -27,15 +27,15 @@ I’m a robotics research engineer apprentice. To see my projects, look at my re
 <div>
   <div style="max-width: 20%;max-height: 20%;display: inline-block;">
     <img src="Untitled%201.png" width="50" style="margin: auto;">
-    <img src="Untitled%202.png" width="50">
-    <img src="Untitled%203.png" width="50">
-    <img src="Untitled%204.png" width="50">
-    <img src="Untitled%205.png" width="50">
-    <img src="Untitled%206.png" width="50">
-    <img src="Untitled%207.png" width="50">
-    <img src="Untitled%208.png" width="50">
-    <img src="Untitled%209.png" width="50">
-    <img src="Untitled%2010.png" width="50">
+    <img src="Untitled%202.png" width="50" style="margin: auto;">
+    <img src="Untitled%203.png" width="50" style="margin: auto;">
+    <img src="Untitled%204.png" width="50" style="margin: auto;">
+    <img src="Untitled%205.png" width="50" style="margin: auto;">
+    <img src="Untitled%206.png" width="50" style="margin: auto;">
+    <img src="Untitled%207.png" width="50" style="margin: auto;">
+    <img src="Untitled%208.png" width="50" style="margin: auto;">
+    <img src="Untitled%209.png" width="50" style="margin: auto;">
+    <img src="Untitled%2010.png" width="50" style="margin: auto;">
   </div>
  </div>
 
