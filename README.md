@@ -3,12 +3,12 @@
 I’m a robotics research engineer apprentice. To see my projects, look at my repositories!
 ![R1](R1.jpg#R1)
 <style>
- img[src$="#R1"] {
-  display: block;
-  margin: 0 auto;
-  border-radius: 50%;
-  width: 100px;
-}
+  img[src$="#R1"] {
+   display: block;
+   margin: 0 auto;
+   border-radius: 50%;
+   width: 100px;
+ }
 </style>
 
 
