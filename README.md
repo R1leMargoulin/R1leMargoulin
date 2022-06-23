@@ -2,7 +2,7 @@
 
 I’m a robotics research engineer apprentice. To see my projects, look at my repositories!
 <div style="text-align: center;">
-  <img src="Untitled.png">
+  <img src="174857.png">
  </div>
 
 **⚡️ Quick Facts:**
