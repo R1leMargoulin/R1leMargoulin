@@ -1,14 +1,7 @@
 ## **Hi there! I’m Erwan** 👋
 
 I’m a robotics research engineer apprentice. To see my projects, look at my repositories!
-<img src="R1.jpg" class="R1">
-<style>
-  .R1 {
-  display: block;
-  border-radius: 50%;
-  width: 100;
- }
-</style>
+<img src="174857.png" width="100">
 
 
 **⚡️ Quick Facts:**
