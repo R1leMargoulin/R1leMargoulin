@@ -1,6 +1,7 @@
 ## **Hi there! I’m Erwan** 👋
 
-I’m a robotics research engineer apprentice. To see my projects, look at my repositories!
+
+I’m a robotics research engineer apprentice. To see my projects, <a href="https://github.com/R1leMargoulin?tab=repositories"> look at my repositories!
 
 To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199/"> **Check my LinkedIn!**
 <img src="174857.png" width="20"></a>
