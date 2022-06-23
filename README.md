@@ -28,25 +28,16 @@ I’m a robotics research engineer apprentice. To see my projects, look at my re
 
 ## **🚀 Some Tools I mostly work with**
 
-![Untitled](Untitled%201.png|width=100px)
-
-![Untitled](Untitled%202.png)
-
-![Untitled](Untitled%203.png)
-
-![Untitled](Untitled%204.png)
-
-![Untitled](Untitled%205.png)
-
-![Untitled](Untitled%206.png)
-
-![Untitled](Untitled%207.png)
-
-![Untitled](Untitled%208.png)
-
-![Untitled](Untitled%209.png)
-
-![Untitled](Untitled%2010.png)
+<img src="Untitled%201.png" width="100" height="100">
+<img src="Untitled%202.png" width="100" height="100">
+<img src="Untitled%203.png" width="100" height="100">
+<img src="Untitled%204.png" width="100" height="100">
+<img src="Untitled%205.png" width="100" height="100">
+<img src="Untitled%206.png" width="100" height="100">
+<img src="Untitled%207.png" width="100" height="100">
+<img src="Untitled%208.png" width="100" height="100">
+<img src="Untitled%209.png" width="100" height="100">
+<img src="Untitled%2010.png" width="100" height="100">
 
 <!--
 **R1leMargoulin/R1leMargoulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
