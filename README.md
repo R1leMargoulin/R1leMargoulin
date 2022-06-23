@@ -1,7 +1,3 @@
-# Portfolio Github
-
-Last Edited Time: June 23, 2022 10:19 PM
-
 ## **Hi there! I’m Erwan** 👋
 
 I’m a robotics research engineer apprentice. To see my projects, look at my repositories!
@@ -27,17 +23,20 @@ I’m a robotics research engineer apprentice. To see my projects, look at my re
 - Personal: Robotic arm prothesis
 
 ## **🚀 Some Tools I mostly work with**
-
-<img src="Untitled%201.png" width="100" height="100">
-<img src="Untitled%202.png" width="100" height="100">
-<img src="Untitled%203.png" width="100" height="100">
-<img src="Untitled%204.png" width="100" height="100">
-<img src="Untitled%205.png" width="100" height="100">
-<img src="Untitled%206.png" width="100" height="100">
-<img src="Untitled%207.png" width="100" height="100">
-<img src="Untitled%208.png" width="100" height="100">
-<img src="Untitled%209.png" width="100" height="100">
-<img src="Untitled%2010.png" width="100" height="100">
+<div>
+  <div style="max-width: 20%;max-height: 20%;display: inline-block;">
+    <img src="Untitled%201.png" width="100" height="100">
+    <img src="Untitled%202.png" width="100" height="100">
+    <img src="Untitled%203.png" width="100" height="100">
+    <img src="Untitled%204.png" width="100" height="100">
+    <img src="Untitled%205.png" width="100" height="100">
+    <img src="Untitled%206.png" width="100" height="100">
+    <img src="Untitled%207.png" width="100" height="100">
+    <img src="Untitled%208.png" width="100" height="100">
+    <img src="Untitled%209.png" width="100" height="100">
+    <img src="Untitled%2010.png" width="100" height="100">
+  </div>
+ </div>
 
 <!--
 **R1leMargoulin/R1leMargoulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
