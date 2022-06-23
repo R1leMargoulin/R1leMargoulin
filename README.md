@@ -1,8 +1,9 @@
 ## **Hi there! I’m Erwan** 👋
 
 I’m a robotics research engineer apprentice. To see my projects, look at my repositories!
-
-<img src="Untitled.png"  style="text-align: center;">
+<div style="text-align: center;">
+  <img src="Untitled.png">
+ </div>
 
 **⚡️ Quick Facts:**
 
