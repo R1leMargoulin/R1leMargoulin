@@ -1,6 +1,7 @@
 ## **Hi there! I’m Erwan** 👋
 
 I’m a robotics research engineer apprentice. To see my projects, look at my repositories!
+![R1](R1.jpg)
  img[src$="R1.jpg"] {
   display: block;
   margin: 0 auto;
