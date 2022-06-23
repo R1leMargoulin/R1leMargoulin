@@ -7,7 +7,7 @@ I’m a robotics research engineer apprentice. To see my projects, look at my re
   display: block;
   margin: 0 auto;
   border-radius: 50%;
-  width: 100;
+  width: 100px;
 }
 </style>
 
