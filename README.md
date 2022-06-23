@@ -13,7 +13,7 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 - I am the president of the CESI Experimental Robotics, my school’s robotics club 🤖
 - I am posting some video projects on my Linkedin
 
-🔄 **Current position:** 
+💼 **Current position:** 
 
 - CESI engineering school - Computer sciences engineering student
 - CESI Lineact : Robotics research engineer apprentice
