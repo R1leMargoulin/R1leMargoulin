@@ -1,9 +1,13 @@
 ## **Hi there! I’m Erwan** 👋
 
 I’m a robotics research engineer apprentice. To see my projects, look at my repositories!
-<div style="text-align: center; border-radius: 50%;">
-  <img src="R1.jpg" style="border-radius: 50%;" width="100px">
- </div>
+ img[src$="R1.jpg"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
+
 
 **⚡️ Quick Facts:**
 
