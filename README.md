@@ -2,8 +2,8 @@
 
 I’m a robotics research engineer apprentice. To see my projects, look at my repositories!
 
-To see more about me, **Check my LinkedIn!**
-<a href="https://www.linkedin.com/in/erwan-martin-76b931199/"><img src="174857.png" width="20"></a>
+To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199/"> **Check my LinkedIn!**
+<img src="174857.png" width="20"></a>
 
 
 **⚡️ Quick Facts:**
