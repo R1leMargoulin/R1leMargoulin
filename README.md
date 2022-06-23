@@ -1,12 +1,12 @@
 ## **Hi there! I’m Erwan** 👋
 
 I’m a robotics research engineer apprentice. To see my projects, look at my repositories!
-![R1](R1.jpg#R1)
+<img src="R1.jpg" class="R1">
 <style>
-  img[src$="#R1"] {
+  .R1 {
   display: block;
   border-radius: 50%;
-  width: 100px;
+  width: 100;
  }
 </style>
 
