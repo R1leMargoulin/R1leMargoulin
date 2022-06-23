@@ -2,8 +2,8 @@
 
 I’m a robotics research engineer apprentice. To see my projects, look at my repositories!
 
-Check mu LinkedIn!
-<img src="174857.png" width="100">
+Check my LinkedIn!
+<img src="174857.png" width="50">
 
 
 **⚡️ Quick Facts:**
