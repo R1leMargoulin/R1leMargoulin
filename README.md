@@ -25,7 +25,7 @@ I’m a robotics research engineer apprentice. To see my projects, look at my re
 
 ## **🚀 Some Tools I mostly work with**
 <div>
-  <div style="max-width: 20%;max-height: 20%;display: inline-block;">
+  <div style="max-width: 20%;max-height: 20%;display: inline-block; margin: auto;">
     <img src="Untitled%201.png" width="50">
     <img src="Untitled%202.png" width="50">
     <img src="Untitled%203.png" width="50">
