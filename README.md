@@ -25,6 +25,9 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 - Robotics: Clubs : Building a BB8, Real size
 - Personal: Robotic arm prothesis
 
+
+If you need any detail about my skills, please, visit <a href="https://github.com/R1leMargoulin/Global-Profile/blob/main/global_profile.pdf"my global profile</a>
+
 ## **🚀 Some Tools I mostly work with**
 <div>
   <div style="max-width: 20%;max-height: 20%;display: inline-block;">
