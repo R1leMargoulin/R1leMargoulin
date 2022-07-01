@@ -26,7 +26,7 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 - Personal: Robotic arm prothesis
 
 
-If you need any detail about my skills, please, visit <a href="https://github.com/R1leMargoulin/Global-Profile/blob/main/global_profile.pdf"my global profile</a>
+If you need any detail about my skills, please, visit <a href="https://github.com/R1leMargoulin/Global-Profile/blob/main/global_profile.pdf">my global profile</a>
 
 ## **🚀 Some Tools I mostly work with**
 <div>
