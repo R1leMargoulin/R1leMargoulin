@@ -24,6 +24,7 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 - Laboratory: several robot control → production line
 - Robotics: Clubs : Building a BB8, Real size
 - Personal: Robotic arm prothesis
+- I will soon add some ROS packages I made for Niryo NED robots
 
 
 If you need any detail about my skills, please, visit <a href="https://github.com/R1leMargoulin/Global-Profile/blob/main/global_profile.pdf">my global profile</a>
