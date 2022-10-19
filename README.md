@@ -33,15 +33,15 @@ If you need any detail about my skills, please, visit <a href="https://github.co
 <div>
   <div style="max-width: 20%;max-height: 20%;display: inline-block;">
     <a href="https://www.python.org/"><img src="Untitled%201.png" width="50" style="margin: auto;"> </a>
-    <img src="Untitled%202.png" width="50" style="margin: auto;">
-    <img src="Untitled%203.png" width="50" style="margin: auto;">
-    <img src="Untitled%204.png" width="50" style="margin: auto;">
-    <img src="Untitled%205.png" width="50" style="margin: auto;">
-    <img src="Untitled%206.png" width="50" style="margin: auto;">
-    <img src="Untitled%207.png" width="50" style="margin: auto;">
-    <img src="Untitled%208.png" width="50" style="margin: auto;">
-    <img src="Untitled%209.png" width="50" style="margin: auto;">
-    <img src="Untitled%2010.png" width="50" style="margin: auto;">
+    <a href="https://isocpp.org/"><img src="Untitled%202.png" width="50" style="margin: auto;"></a>
+    <a href="https://visualstudio.microsoft.com/"><img src="Untitled%203.png" width="50" style="margin: auto;"></a>
+    <a href="https://code.visualstudio.com/"><img src="Untitled%204.png" width="50" style="margin: auto;"></a>
+    <a href="https://jupyter.org/"><img src="Untitled%205.png" width="50" style="margin: auto;"></a>
+    <a href="https://www.raspberrypi.com/"><img src="Untitled%206.png" width="50" style="margin: auto;"></a>
+    <a href="https://gazebosim.org/home"><img src="Untitled%207.png" width="50" style="margin: auto;"></a>
+    <a href="https://ubuntu.com/"><img src="Untitled%208.png" width="50" style="margin: auto;"></a>
+    <a href="https://www.ros.org/"><img src="Untitled%209.png" width="50" style="margin: auto;"></a>
+    <a href="https://www.arduino.cc/"><img src="Untitled%2010.png" width="50" style="margin: auto;"></a>
   </div>
  </div>
 
