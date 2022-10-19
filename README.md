@@ -32,7 +32,7 @@ If you need any detail about my skills, please, visit <a href="https://github.co
 ## **🚀 Some Tools I mostly work with**
 <div>
   <div style="max-width: 20%;max-height: 20%;display: inline-block;">
-    <img src="Untitled%201.png" width="50" style="margin: auto;">
+    <a href="https://www.python.org/"><img src="Untitled%201.png" width="50" style="margin: auto;"> </a>
     <img src="Untitled%202.png" width="50" style="margin: auto;">
     <img src="Untitled%203.png" width="50" style="margin: auto;">
     <img src="Untitled%204.png" width="50" style="margin: auto;">
