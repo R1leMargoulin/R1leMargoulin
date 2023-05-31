@@ -9,7 +9,7 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 
 **⚡️ Quick Facts:**
 
-- I am currently looking for an internship in robotics in a foreign country (USA or UK are my wanted destinations) 🗺️
+- I am currently preparing my internship in the USA. 🗺️
 - I am the president of the CESI Experimental Robotics, my school’s robotics club 🤖
 - I am posting some video projects on my Linkedin
 
