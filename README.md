@@ -20,10 +20,10 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 
 **🦾 Currently working on**:
 
-- School : pathfinding algorithm project
+- School : Preparing a robotics internship in Louisiana
 - Laboratory: actually working to publish a research paper.
-- Robotics: Clubs : Building a BB8, Real size
-- Personal: Robotic arm prothesis
+- Robotics Club: Building a BB8, Real size
+- Personal: Building an Iron Man Helmet, learning deep/machine learning
 
 
 If you need any detail about my skills, please, visit <a href="https://github.com/R1leMargoulin/Global-Profile/blob/main/global_profile.pdf">my global profile</a>
