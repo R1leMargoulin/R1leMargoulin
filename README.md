@@ -47,6 +47,7 @@ If you need any detail about my skills, please, visit <a href="https://github.co
 
 ___
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R1leMargoulin&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damounayman&layout=compact)](https://github.com/damounayman)
 
 <!--
 **R1leMargoulin/R1leMargoulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
