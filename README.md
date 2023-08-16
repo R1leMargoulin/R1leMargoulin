@@ -9,14 +9,15 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 
 **⚡️ Quick Facts:**
 
-- I am currently preparing my internship in the USA. 🗺️
+- I am currently in internship in USA. 🗺️
 - I am the president of the CESI Experimental Robotics, my school’s robotics club 🤖
-- I am posting some video projects on my Linkedin
+- I am posting some video and projects on my Linkedin
 
 💼 **Current position:** 
 
 - CESI engineering school - Computer sciences engineering student
-- CESI Lineact : Robotics research engineer apprentice
+- CESI Lineact - Robotics research engineer apprentice
+- University of Louisiana at Lafayette (LA) - research intern in robotics
 
 **🦾 Currently working on**:
 
