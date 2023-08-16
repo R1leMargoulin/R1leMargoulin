@@ -21,7 +21,7 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 
 **🦾 Currently working on**:
 
-- School : Preparing a robotics internship in Louisiana
+- School : PAUSE - robotics internship in Louisiana
 - Laboratory: actually working to publish a research paper.
 - Robotics Club: Building a BB8, Real size
 - Personal: Building an Iron Man Helmet, learning deep/machine learning
