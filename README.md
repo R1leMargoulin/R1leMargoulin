@@ -6,6 +6,9 @@ I’m a robotics research engineer apprentice. To see my projects, <a href="http
 To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199/"> **Check my LinkedIn!**
 <img src="174857.png" width="20"></a>
 
+📧:
+- emartin@cesi.fr
+- erwan.martin666@gmail.com
 
 **⚡️ Quick Facts:**
 
