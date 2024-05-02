@@ -23,8 +23,8 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 
 **🦾 Currently working on**:
 
-- School : AI and Data science, I'm very enthousiastic and wanna try million things with deep RL.
-- Laboratory: actually working on multiple and diferent kind robot scheduling
+- School : Actually finishing the progrm with a 6 months project in the Laboratory.
+- Laboratory: actually working on multiple and different kind robot scheduling
 - Robotics Club: Building a BB8, Real size
 - Personal: Building an Iron Man Helmet + learning deep reinforcement learning
 
