@@ -1,35 +1,32 @@
 ## **Hi there! I’m Erwan** 👋
 
 
-I’m a robotics research engineer apprentice. To see my projects, <a href="https://github.com/R1leMargoulin?tab=repositories"> look at my repositories!</a>
+I’m a computer sciences engineer and currently a PhD Student. To see what I'm doing, <a href="https://github.com/R1leMargoulin?tab=repositories"> take a look at my repositories!</a>
 
 To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199/"> **Check my LinkedIn!**
 <img src="174857.png" width="20"></a>
 
 **📧 Mails :**
-- emartin@cesi.fr
+- erwan.martin@univ-lille.fr
 - erwan.martin666@gmail.com
 
 **⚡️ Quick Facts:**
 
-- I am currently a last year student for my master in computer science engineering.
-- I am the president of the CESI Experimental Robotics, my school’s robotics club 🤖
+- I am currently first year PhD student at CRIStAL Laboratory - GT I2C - Team SMAC.
 - I am posting some video and projects on my Linkedin
 
 💼 **Current position:** 
 
-- CESI engineering school - Computer sciences engineering student (last year)
-- CESI Lineact - Robotics research engineer apprentice
+- CRIStAL - PhD Student : Intelligent and Adaptive Collective Behavior for a Fleet of Aero-Terrestrial Robots
 
+  
 **🦾 Currently working on**:
 
-- School : Actually finishing the progrm with a 6 months project in the Laboratory.
-- Laboratory: actually working on multiple and different kind robot scheduling
-- Robotics Club: Building a BB8, Real size
-- Personal: Building an Iron Man Helmet + learning deep reinforcement learning
+- PhD Course : State of the Art 
+- Personal: Preparing to build a 3D printed robot from scratch, integrate it on ROS2 and perform some reinforcement learning with it
 
 
-If you need any detail about my skills, please, visit <a href="https://github.com/R1leMargoulin/Global-Profile/blob/main/global_profile.pdf">my global profile</a> (I am going to update it very soon)
+If you need any detail about my skills, please, visit <a href="https://github.com/R1leMargoulin/Global-Profile/blob/main/global_profile.pdf">my global profile</a>
 
 ## **🚀 Some Tools I mostly work with**
 <div>
