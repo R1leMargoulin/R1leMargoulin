@@ -24,7 +24,7 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 **🦾 Currently working on**:
 
 - PhD Course : State of the Art 
-- Personal: Preparing to build a 3D printed robot from scratch, integrate it on ROS2 and perform some reinforcement learning with it
+- Personal: Preparing to build a 3D printed robot from scratch, let me cook.
 
 
 If you need any detail about my skills, please, visit <a href="https://github.com/R1leMargoulin/Global-Profile/blob/main/global_profile.pdf">my global profile</a>
