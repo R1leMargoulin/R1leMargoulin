@@ -12,9 +12,8 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 
 **⚡️ Quick Facts:**
 
-- I am currently first year PhD student at CRIStAL Laboratory - GT I2C - Team SMAC.
+- I am currently second year PhD student at CRIStAL Laboratory - GT I2C - Team SMAC.
 - I am posting some video and projects on my Linkedin
-- I have a repository that I will feed with some guides/tips I have, don't hesitate to visit it [here](https://github.com/R1leMargoulin/Guides/wiki)
 
 💼 **Current position:** 
 
@@ -23,7 +22,7 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
   
 **🦾 Currently working on**:
 
-- PhD Course : State of the Art 
+- PhD Course : 1st Article submitted!
 - Personal: Preparing to build a 3D printed robot from scratch, let me cook.
 
 
