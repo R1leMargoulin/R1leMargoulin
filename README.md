@@ -25,6 +25,13 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 - PhD Course : 2 Articles submitted, One has been accepted, currently applying the reviews advices.
 - Personal: Preparing to build a 3D printed robot from scratch, let me cook.
 
+**😎​ Cool stuffs**:
+<p align="left">
+  <img src="IronMan.gif" height="250px"/>
+  <img src="lecyborg_light.gif" height="250px"/>
+  <img src="BB8_CER.gif" height="250px"/>
+</p>
+
 
 If you need any detail about my skills, please, visit <a href="https://github.com/R1leMargoulin/Global-Profile/blob/main/global_profile.pdf">my global profile</a>
 
