@@ -27,9 +27,9 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 
 **😎​ Cool stuffs**:
 <p align="left">
-  <img src="IronMan.gif" height="250px"/>
-  <img src="lecyborg_light.gif" height="250px"/>
-  <img src="BB8_CER.gif" height="250px"/>
+  <img src="IronMan.gif" height="200px"/>
+  <img src="lecyborg_light.gif" height="200px"/>
+  <img src="BB8_CER.gif" height="200px"/>
 </p>
 
 
