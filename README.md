@@ -22,8 +22,8 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
   
 **🦾 Currently working on**:
 
-- PhD Course : 2 Articles submitted, One has been accepted, currently applying the reviews advices.
-- Personal: Preparing to build a 3D printed robot from scratch, let me cook.
+- PhD Course : 2 article accepted and presented at international conference. I Will share when it's out!
+- Personal: Preparing to build a lowcost 3D printable mobile robot from scratch, let me cook.
 
 **😎​ Cool stuffs**:
 <p align="left">
