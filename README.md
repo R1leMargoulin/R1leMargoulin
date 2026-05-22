@@ -6,7 +6,7 @@ I’m a computer sciences engineer and currently a PhD Student. To see what I'm 
 To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199/"> **Check my LinkedIn!**
 <img src="174857.png" width="20"></a>
 
-**📧 Mails :**
+**📧 Mails:**
 - erwan.martin@univ-lille.fr
 - erwan.martin666@gmail.com
 
@@ -15,20 +15,20 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 - I am currently second year PhD student at CRIStAL Laboratory - GT I2C - Team SMAC.
 - I am posting some video and projects on my Linkedin
 
-💼 **Current position:** 
+💼 **Current position:**:
 
 - CRIStAL - PhD Student : Intelligent and Adaptive Collective Behavior for a Fleet of Aero-Terrestrial Robots
 
   
-**🦾 Currently working on**:
+**🦾 Currently working on:**
 
 - PhD Course : 2 article accepted and presented at international conference. I Will share when it's out!
 - Personal: Preparing to build a lowcost 3D printable mobile robot from scratch, let me cook.
 
-**X Research links**
-- Google Scholar : <a href="https://scholar.google.com/citations?user=GqomBiAAAAAJ">Google Scholar</a>
+**🥼 Research:**
+- <a href="https://scholar.google.com/citations?user=GqomBiAAAAAJ">Google Scholar</a>
 
-**😎​ Cool stuffs**:
+**😎​ Cool stuffs:**
 <p align="left">
   <img src="IronMan.gif" height="200px"/>
   <img src="lecyborg_light.gif" height="200px"/>
