@@ -25,6 +25,9 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
 - PhD Course : 2 article accepted and presented at international conference. I Will share when it's out!
 - Personal: Preparing to build a lowcost 3D printable mobile robot from scratch, let me cook.
 
+**X Research links**
+- Google Scholar : <a href="https://scholar.google.com/citations?user=GqomBiAAAAAJ">Google Scholar</a>
+
 **😎​ Cool stuffs**:
 <p align="left">
   <img src="IronMan.gif" height="200px"/>
