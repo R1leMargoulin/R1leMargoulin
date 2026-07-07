@@ -22,7 +22,7 @@ To see more about me,<a href="https://www.linkedin.com/in/erwan-martin-76b931199
   
 **🦾 Currently working on:**
 
-- PhD Course : 2 article accepted and presented at international conference. I Will share when it's out!
+- PhD Course : Still cooking articles. stay tuned!
 - Personal: Preparing to build a lowcost 3D printable mobile robot from scratch, let me cook.
 
 **🥼 Research:**
